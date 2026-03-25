@@ -1,8 +1,3 @@
-<!--
-  README.md for GitHub Profile
-  This README will be displayed on your GitHub profile.
--->
-
 <!-- Hero Section -->
 <h1 align="center">👋 Hi, I’m Aklilu Abera</h1>
 <h3 align="center">Full‑Stack & AI Engineer — Building intelligent web apps with next‑level Dotnet, JavaScript, React, Python & AI.</h3>
@@ -14,7 +9,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/Aklilu27">
-    <img src="https://img.shields.io/github/followers/your‑github‑username?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Aklilu27?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/akliluabera/">
     <img src="https://img.shields.io/badge/LinkedIn‑Connect‑0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -45,8 +40,6 @@ I thrive on building *end‑to‑end solutions—from UI to backend to ML insigh
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
-[![JavaScript](https://img.shields.io/badge/JavaScript‑F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-### 💻 Languages & Frameworks
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
@@ -55,28 +48,25 @@ I thrive on building *end‑to‑end solutions—from UI to backend to ML insigh
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
-
 ### 🧠 AI & Machine Learning
-[![TensorFlow](https://img.shields.io/badge/TensorFlow‑FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit‑learn](https://img.shields.io/badge/Scikit‑learn‑F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit‑learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 
 ### 🗄️ Databases & Tools
-[![MongoDB](https://img.shields.io/badge/MongoDB‑47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL‑4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL‑4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![GitHub](https://img.shields.io/badge/GitHub‑181717?style=flat&logo=github&logoColor=white)](https://github.com/your‑github‑username)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aklilu27)
 
 ---
 
 ## 🌟 Featured Projects
 
-Here are a few highlights from my portfolio — complete with tools used and key focus areas:
-
-
 ### 📚 Library Management System  
 **Full‑Stack App** – A scalable system for managing books, users, and analytics dashboards.  
 🛠️ Next.js • Express • MongoDB
-### 🔹 Online Ticket Management System
+
+### 🔹 Online Ticket Management System  
 **Full‑Stack / .NET** – A robust system for managing users, tickets, and company workflows.  
 🛠️ ASP.NET Core • C# • Entity Framework • SQL Server
 
@@ -88,15 +78,18 @@ Here are a few highlights from my portfolio — complete with tools used and key
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github.com/your‑github‑username.png?tab=overview&theme=radical)
+![Aklilu27's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aklilu27&show_icons=true&theme=radical)
+
+---
 
 ## 📬 Let’s Connect
 
 I’m always open to collaborations, open‑source contributions, and exciting opportunities!
 
 📨 **Email:** akililuabera44@gmail.com  
-🌍 **Portfolio:** https://personal‑portfolio‑three‑omega‑52.vercel.app/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/akliluabera/
+🌍 **Portfolio:** https://personal-portfolio-three-omega-52.vercel.app/  
+🔗 **LinkedIn:** https://www.linkedin.com/in/akliluabera/  
+🔗 **Upwork:** https://www.upwork.com/freelancers/~01ef05b09a4e009492?mp_source=share
 
 ---
 

@@ -135,15 +135,15 @@ I’m a **Full-Stack & AI Engineer** passionate about building **scalable web ap
 ## 📬 Let's Connect
 
 <p align="center">
-  📧 <b>Email:</b> akililuabera44@gmail.com <br>
+  📧<b>Email:</b> akililuabera44@gmail.com <br>
   🌍 <b>Portfolio:</b> https://personal-portfolio-three-omega-52.vercel.app/ <br>
   💼 <b>LinkedIn:</b> https://www.linkedin.com/in/akliluabera/ <br>
-  🧑‍💻 <b>Upwork:</b> https://www.upwork.com/freelancers/~01ef05b09a4e009492?mp_source=share
+  🧑‍💻<b>Upwork:</b> https://www.upwork.com/freelancers/~01ef05b09a4e009492?mp_source=share
 </p>
 
 ---
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  ⭐️ From <b>Aklilu Abera</b> — Building the future with code 🚀
+  ⭐️ From <b>Aklilu Abera</b> — Building the future with code 
 </p>

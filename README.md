@@ -114,11 +114,10 @@ I’m a **Full-Stack & AI Engineer** passionate about building **scalable web ap
 
 ---
 
-<!-- ================= TROPHIES ================= -->
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aklilu27&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aklilu27&theme=radical&no-frame=true&margin-w=15"/>
 </p>
 
 ---

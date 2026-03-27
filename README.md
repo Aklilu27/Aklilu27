@@ -1,5 +1,5 @@
 <!-- ================= HERO ================= -->
-<h1 align="center">👋 Hi, I'm Aklilu Abera</h1>
+<h1 align="center"> Hi, I'm Aklilu Abera</h1>
 <h3 align="center">🚀 Full-Stack & AI Engineer | Building Scalable Web Apps & Intelligent Systems</h3>
 
 <p align="center">
